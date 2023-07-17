@@ -2,10 +2,10 @@
 
 |Тема|Название|Ссылка|
 | ------------- | ------------- | ------------- |
-|**Анализ данных**|
+|[**Анализ данных**] (https://github.com/mckuratova/analysis/blob/main/README.md)|
 |Исследование данных|Исследование объявлений о продаже квартир|[ссылка](https://github.com/mckuratova/analysis/blob/main/03.ipynb)|
 |Исследование данных|Исследование данных о компьютерных играх|[ссылка](https://github.com/mckuratova/analysis/blob/main/05.ipynb)|
-|**Машинное обучение**|
+|[**Машинное обучение**] (https://github.com/mckuratova/machine_learning/blob/main/README.md)|
 |Линейная алгебра|Защита персональных данных клиентов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/10.ipynb)|
 |Тексты|Машинное обучение для текстов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/13.ipynb)|
 |Нейронные сети|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
