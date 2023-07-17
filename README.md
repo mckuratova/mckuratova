@@ -8,7 +8,7 @@
 |Исследование данных (SQL)|Анализ данных в индустрии|[ссылка](https://github.com/mckuratova/analysis/blob/main/tinkoff_project.ipynb)|
 |[**Машинное обучение**](https://github.com/mckuratova/machine_learning/blob/main/README.md)|
 |Линейная алгебра|Защита персональных данных клиентов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/10.ipynb)|
-|Тексты|Машинное обучение для текстов (Bert)|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/13.ipynb)|
+|Тексты|Машинное обучение для текстов (Bert)|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/texts_bert.ipynb)|
 |Машинное обучение|Определение стоимости автомобилей (CatBoost)|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/car_price_definition.ipynb)|
 |[**Нейронные сети**](https://github.com/mckuratova/neural_networks/blob/main/README.md)|
 |LeNet|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
