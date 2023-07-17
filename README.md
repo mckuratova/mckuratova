@@ -4,6 +4,7 @@
 | ------------- | ------------- | ------------- |
 |**Анализ данных**|
 |Исследование данных|Исследование объявлений о продаже квартир|[ссылка](https://github.com/mckuratova/analysis/blob/main/03.ipynb)|
+|Исследование данных|Исследование данных о компьютерных играх|[ссылка](https://github.com/mckuratova/analysis/blob/main/05.ipynb)|
 |**Машинное обучение**|
 |Нейронные сети|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
 |Нейронные сети|Классификация фруктов с применением аугментации|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/fruits.ipynb)|
