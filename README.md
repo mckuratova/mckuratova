@@ -2,8 +2,11 @@
 
 |Тема|Название|Ссылка|
 | ------------- | ------------- | ------------- |
-|Нейронные сети|
+|**Анализ данных**|
+|**Машинное обучение**|
 |Нейронные сети|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
+|Нейронные сети|Классификация фруктов с применением аугментации|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/fruits.ipynb)|
+|Нейронные сети|Определение возраста покупателей|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/computer_vision_project.ipynb)|
 
 <!--
 **mckuratova/mckuratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
