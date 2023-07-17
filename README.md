@@ -1,8 +1,8 @@
-### Проекты по программе Yandex.Practicum DataScience
+### Учебные проекты
 
-| Тема   | Описание проекта | Ссылка |
+|Тема|Название|Ссылка|
 | ------------- | ------------- | ------------- |
-| Нейронные сети  | ссылка на проект  | ------------- |
+|Нейронные сети|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
 
 <!--
 **mckuratova/mckuratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
