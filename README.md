@@ -1,4 +1,8 @@
-### Have a nice day! 👋
+### Проекты по программе Yandex.Practicum DataScience
+
+| Тема   | Описание проекта | Ссылка |
+| ------------- | ------------- | ------------- |
+| Нейронные сети  | ссылка на проект  | ------------- |
 
 <!--
 **mckuratova/mckuratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
