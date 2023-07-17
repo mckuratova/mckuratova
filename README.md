@@ -8,9 +8,10 @@
 |[**Машинное обучение**](https://github.com/mckuratova/machine_learning/blob/main/README.md)|
 |Линейная алгебра|Защита персональных данных клиентов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/10.ipynb)|
 |Тексты|Машинное обучение для текстов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/13.ipynb)|
-|Нейронные сети|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
-|Нейронные сети|Классификация фруктов с применением аугментации|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/fruits.ipynb)|
-|Нейронные сети|Определение возраста покупателей|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/computer_vision_project.ipynb)|
+|[**Нейронные сети**](https://github.com/mckuratova/neural_networks/blob/main/README.md)|
+|LeNet|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
+|Сверточные сети|Классификация фруктов с применением аугментации|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/fruits.ipynb)|
+|ResNet|Определение возраста покупателей|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/computer_vision_project.ipynb)|
 
 <!--
 **mckuratova/mckuratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
