@@ -15,6 +15,7 @@
 |Сверточные сети|Классификация фруктов с применением аугментации|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/fruits.ipynb)|
 |ResNet|Определение возраста покупателей|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/computer_vision_project.ipynb)|
 
+
 <!--
 **mckuratova/mckuratova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
