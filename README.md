@@ -10,6 +10,7 @@
 |Линейная алгебра|Защита персональных данных клиентов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/10.ipynb)|
 |Тексты|Машинное обучение для текстов (Bert)|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/texts_bert.ipynb)|
 |Машинное обучение|Определение стоимости автомобилей (CatBoost)|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/car_price_definition.ipynb)|
+|Data Science|Телеком - выпускной проект|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/final_project.ipynb)|
 |[**Нейронные сети**](https://github.com/mckuratova/neural_networks/blob/main/README.md)|
 |LeNet|Построение простой сети LeNet и классификация одежды|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/lenet.ipynb)|
 |Сверточные сети|Классификация фруктов с применением аугментации|[ссылка](https://github.com/mckuratova/neural_networks/blob/main/fruits.ipynb)|
