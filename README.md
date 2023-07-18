@@ -4,8 +4,8 @@
 | ------------- | ------------- | ------------- |
 |[**Анализ данных**](https://github.com/mckuratova/analysis/blob/main/README.md)|
 |Исследование данных|Исследование объявлений о продаже квартир|[ссылка](https://github.com/mckuratova/analysis/blob/main/03.ipynb)|
-|Исследование данных|Исследование данных о компьютерных играх|[ссылка](https://github.com/mckuratova/analysis/blob/main/05.ipynb)|
-|Исследование данных (SQL)|Анализ данных в индустрии|[ссылка](https://github.com/mckuratova/analysis/blob/main/tinkoff_project.ipynb)|
+|Визуализация данных|Исследование данных о компьютерных играх|[ссылка](https://github.com/mckuratova/analysis/blob/main/05.ipynb)|
+|Анализ данных (SQL)|Анализ данных в индустрии|[ссылка](https://github.com/mckuratova/analysis/blob/main/tinkoff_project.ipynb)|
 |[**Машинное обучение**](https://github.com/mckuratova/machine_learning/blob/main/README.md)|
 |Линейная алгебра|Защита персональных данных клиентов|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/10.ipynb)|
 |Тексты|Машинное обучение для текстов (Bert)|[ссылка](https://github.com/mckuratova/machine_learning/blob/main/texts_bert.ipynb)|
